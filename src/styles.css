@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  border: 2px solid black;
+  padding: 16px;
+  height: 25rem;
+  width: 17rem;
+}
+.App > button {
+  margin-right: 16px;
+  padding: 16px;
+}
+.App > li {
+  text-align: left;
+  padding: 10px;
+}
+.App > img {
+  width: 250px;
+  height: 250px;
+}
